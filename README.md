@@ -1,0 +1,2 @@
+# CalendarLite
+React Calendar component
